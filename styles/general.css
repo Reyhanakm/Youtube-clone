@@ -1,0 +1,30 @@
+p{
+            font-family:roboto,arial;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+        .body{
+            margin: 0;
+            height: 55px;
+        }
+.header{
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+}
+.left-section{
+    background-color:lightblue ;
+    width: 150px;
+    margin-right:70px;
+}
+.middle-section{
+    background-color: lightcoral;
+    flex:1;
+    margin-right: 50px;
+
+}
+.right-section{
+    background-color: lightgoldenrodyellow;
+    width: 200px;
+    
+}
